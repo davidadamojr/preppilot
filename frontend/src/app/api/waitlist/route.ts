@@ -44,8 +44,22 @@ export async function POST(request: NextRequest) {
     );
 
     if (!formspreeResponse.ok) {
-      const errorData = await formspreeResponse.json();
-      console.error('Formspree error:', errorData);
+      const contentType = formspreeResponse.headers.get('content-type') || '';
+      let errorDetails: string;
+
+      if (contentType.includes('application/json')) {
+        const errorData = await formspreeResponse.json();
+        errorDetails = JSON.stringify(errorData);
+      } else {
+        errorDetails = await formspreeResponse.text();
+      }
+
+      console.error('Formspree error:', {
+        status: formspreeResponse.status,
+        contentType,
+        details: errorDetails.substring(0, 500),
+      });
+
       return NextResponse.json(
         { error: 'Failed to submit email' },
         { status: 502 }
