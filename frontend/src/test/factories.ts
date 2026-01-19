@@ -145,6 +145,10 @@ export function createPrepStep(overrides: Partial<PrepStep> = {}): PrepStep {
     duration_minutes: 5,
     can_batch: true,
     batch_key: 'chop_onion',
+    source_recipes: [],
+    equipment: null,
+    is_passive: false,
+    phase: null,
     ...overrides,
   };
 }

@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect } from 'react';
+import { Suspense, useEffect } from 'react';
 import { useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { useAuth } from '@/lib/auth-context';
@@ -21,7 +21,7 @@ import {
 } from '@/components/ui/alert-dialog';
 import { ArrowLeft } from 'lucide-react';
 
-export default function RecipesPage() {
+function RecipesPageContent() {
   const { user, isLoading, logout } = useAuth();
   const router = useRouter();
   const searchParams = useSearchParams();
@@ -92,5 +92,19 @@ export default function RecipesPage() {
         </RecipeErrorBoundary>
       </main>
     </div>
+  );
+}
+
+export default function RecipesPage() {
+  return (
+    <Suspense
+      fallback={
+        <div className="min-h-screen flex items-center justify-center">
+          <LoadingState message="Loading..." size="lg" />
+        </div>
+      }
+    >
+      <RecipesPageContent />
+    </Suspense>
   );
 }
