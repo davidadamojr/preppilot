@@ -1,0 +1,1386 @@
+{
+  "recipes": [
+    {
+      "name": "Coconut Cardamom Rice Pudding with Stewed Apple",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "white rice", "freshness_days": 365, "quantity": "1 cup", "category": "grain"},
+        {"name": "coconut milk", "freshness_days": 5, "quantity": "1.5 cups", "category": "dairy_alternative"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "cardamom", "freshness_days": 365, "quantity": "2 pods", "category": "spice"},
+        {"name": "maple syrup", "freshness_days": 365, "quantity": "2 tbsp", "category": "sweetener"},
+        {"name": "salt", "freshness_days": 365, "quantity": "pinch", "category": "seasoning"}
+      ],
+      "prep_steps": [
+        "Rinse rice thoroughly.",
+        "Combine rice with water and a pinch of salt (SALT balances the eventual sweetness).",
+        "Bring rice to a boil over high heat, then reduce to low and simmer for 15 minutes.",
+        "Crack cardamom pods to expose seeds.",
+        "Heat coconut milk in a separate pan over medium-low heat (about 300°F) with the cardamom and maple syrup until steaming (HEAT/FAT infusion).",
+        "Peel and cube the tart green apple.",
+        "Add apple to the coconut milk and simmer until soft but not mushy.",
+        "Stir the rice into the infused milk mixture.",
+        "Cook for another 5 minutes to meld textures.",
+        "Serve warm. The stewed apple provides the ACID to balance the rich, fatty coconut milk."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.6,
+      "servings": 2
+    },
+    {
+      "name": "Crispy Rutabaga and Egg Skillet",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "fresh eggs", "freshness_days": 21, "quantity": "4 large", "category": "protein"},
+        {"name": "rutabaga", "freshness_days": 14, "quantity": "1 large", "category": "vegetable"},
+        {"name": "onion", "freshness_days": 14, "quantity": "1 small", "category": "vegetable"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "3 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "fresh chives", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"}
+      ],
+      "prep_steps": [
+        "Dice rutabaga into small 1cm cubes for even cooking.",
+        "Dice onion.",
+        "Heat olive oil in a cast-iron skillet over medium-high heat (about 375°F).",
+        "Add rutabaga and salt immediately (SALT).",
+        "Cook rutabaga undisturbed for 4-5 minutes to develop a crust, then toss.",
+        "Add onions and cook until softened.",
+        "Create four wells in the hash.",
+        "Crack eggs into the wells.",
+        "Season the yolks with salt.",
+        "Cover and cook until whites are set but yolks are runny (texture contrast).",
+        "Grate the tart green apple finely over the hot eggs just before serving. The raw apple zest provides a bright ACID kick against the rich yolk."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Toasted Millet with Mango and Apple",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "millet", "freshness_days": 365, "quantity": "1 cup", "category": "grain"},
+        {"name": "fresh mango", "freshness_days": 3, "quantity": "1 cup", "category": "fruit"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"},
+        {"name": "salt", "freshness_days": 365, "quantity": "pinch", "category": "seasoning"}
+      ],
+      "prep_steps": [
+        "Toast raw millet in a dry saucepan over medium heat (about 325°F), stirring constantly until it smells nutty (HEAT develops complex flavor notes).",
+        "Add water and a pinch of salt to the millet.",
+        "Bring millet to a boil, cover, and simmer for 18 minutes.",
+        "Stir in coconut oil while the millet is hot to coat the grains (FAT).",
+        "Dice the mango (sweetness).",
+        "Cut the tart green apple into thin matchsticks (ACID/Crunch).",
+        "Fluff the millet and top with the fruits. The apple acid balances the mango's sugar."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.65,
+      "servings": 2
+    },
+    {
+      "name": "Poached Chicken Salad with Apple Dressing",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "chicken breast", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "cucumber", "freshness_days": 7, "quantity": "1 large", "category": "vegetable"},
+        {"name": "radishes", "freshness_days": 10, "quantity": "1 bunch", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "3 tbsp", "category": "fat"},
+        {"name": "fresh parsley", "freshness_days": 3, "quantity": "2 tbsp", "category": "herb"}
+      ],
+      "prep_steps": [
+        "Heavily salt a pot of water (it should taste like the sea) and bring to a boil.",
+        "Add chicken to the boiling water, remove from heat, cover, and let sit for 20 minutes (Gentle HEAT prevents tough meat).",
+        "Slice cucumber thinly.",
+        "Slice radishes thinly.",
+        "Grate half the tart green apple into a pulp for the dressing.",
+        "Whisk apple pulp vigorously with olive oil and a pinch of salt until emulsified (ACID/FAT emulsion).",
+        "Slice the remaining apple into half-moons.",
+        "Slice the poached chicken.",
+        "Toss warm chicken with the dressing first to absorb flavor.",
+        "Arrange chicken over vegetables and top with apple slices."
+      ],
+      "prep_time_minutes": 30,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Ginger Pork and Bok Choy Stir-Fry",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "pork tenderloin", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "bok choy", "freshness_days": 5, "quantity": "3 heads", "category": "vegetable"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "2 inches", "category": "spice"},
+        {"name": "white rice", "freshness_days": 365, "quantity": "1 cup", "category": "grain"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Slice pork against the grain into thin strips.",
+        "Season pork heavily with salt.",
+        "Cook rice in salted water.",
+        "Heat coconut oil in a wok until smoking, about 450-500°F (High HEAT for 'wok hei').",
+        "Sear pork in a single layer without moving it for 1 minute to brown, then toss.",
+        "Remove pork from wok.",
+        "Add ginger matchsticks and bok choy to the hot fat.",
+        "Stir-fry ginger and bok choy for 2 minutes.",
+        "Juice half the green apple.",
+        "Pour apple juice into the hot pan to deglaze, scraping up browned bits (ACID lifts the fond).",
+        "Return pork to pan and toss to coat.",
+        "Serve pork and vegetables over rice with remaining apple sliced raw on top for crunch."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Turkey Meatballs with Zucchini Noodles",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "ground turkey", "freshness_days": 2, "quantity": "400g", "category": "protein"},
+        {"name": "zucchini", "freshness_days": 5, "quantity": "3 medium", "category": "vegetable"},
+        {"name": "garlic", "freshness_days": 21, "quantity": "2 cloves", "category": "vegetable"},
+        {"name": "fresh basil", "freshness_days": 3, "quantity": "1/4 cup", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "3 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 400°F (Radiant HEAT).",
+        "Mix turkey, minced garlic, chopped basil, and 1 tsp salt. Do not overmix (preserves texture).",
+        "Form turkey mixture into balls.",
+        "Roast meatballs on a baking sheet for 15-18 minutes until browned.",
+        "Spiralize or peel zucchini into ribbons.",
+        "Heat olive oil in a skillet.",
+        "Sauté zucchini briefly (2 mins) so it stays al dente.",
+        "Season zucchini with salt.",
+        "Finely dice the tart green apple.",
+        "Serve meatballs over zucchini ribbons. Top with raw diced apple to cut the savory fat of the turkey (ACID)."
+      ],
+      "prep_time_minutes": 30,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Rosemary Lamb with Roasted Radishes",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "lamb chops", "freshness_days": 2, "quantity": "4 pieces", "category": "protein"},
+        {"name": "radishes", "freshness_days": 10, "quantity": "2 bunches", "category": "vegetable"},
+        {"name": "fresh rosemary", "freshness_days": 7, "quantity": "3 sprigs", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "3 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Salt the lamb chops and leave them at room temperature for 30 minutes (SALT/Diffusion).",
+        "Toss radishes with olive oil and salt.",
+        "Roast radishes at 400°F for 20 minutes until tender and sweet (Heat transforms the radish flavor).",
+        "Heat a skillet over high heat (about 450°F).",
+        "Sear lamb chops for 3 minutes per side to develop a crust.",
+        "In the last minute of cooking, throw in rosemary sprigs to fry in the rendered lamb fat (FAT carries aroma).",
+        "Remove lamb chops from skillet and rest the meat.",
+        "Slice the tart green apple into thin batons.",
+        "Serve lamb and radishes with the raw apple batons to cleanse the palate between bites of fatty meat (ACID)."
+      ],
+      "prep_time_minutes": 40,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Crispy Duck Legs with Sautéed Cabbage",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "duck legs", "freshness_days": 2, "quantity": "2 pieces", "category": "protein"},
+        {"name": "green cabbage", "freshness_days": 14, "quantity": "1/2 head", "category": "vegetable"},
+        {"name": "onion", "freshness_days": 14, "quantity": "1 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Prick duck skin all over with a fork.",
+        "Salt duck generously.",
+        "Place duck in a cold pan and turn heat to low (about 250-275°F).",
+        "Cook duck for 45-60 mins, draining fat occasionally (Low HEAT renders FAT for crispy skin).",
+        "Flip duck and sear the meat side for 2 minutes.",
+        "Remove duck from pan.",
+        "Slice cabbage.",
+        "Slice onion.",
+        "Add cabbage and onion to the hot duck fat in the pan (FAT).",
+        "Increase heat to medium-high.",
+        "Sauté cabbage and onion until cabbage is caramelized.",
+        "Chop the tart green apple into chunks.",
+        "Toss apple into the cabbage for the last 2 minutes of cooking. The apple should warm through and provide a sweet-sour contrast (ACID)."
+      ],
+      "prep_time_minutes": 70,
+      "reusability_index": 0.6,
+      "servings": 2
+    },
+    {
+      "name": "Chicken Thighs with Caramelized Onion and Apple",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "chicken thighs", "freshness_days": 2, "quantity": "4 pieces", "category": "protein"},
+        {"name": "onion", "freshness_days": 14, "quantity": "2 large", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "2 medium", "category": "fruit"},
+        {"name": "fresh thyme", "freshness_days": 5, "quantity": "4 sprigs", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Season chicken thighs with salt under and over the skin.",
+        "Place chicken skin-side down in a cold cast-iron skillet.",
+        "Turn heat to medium-high (about 375°F).",
+        "Cook chicken undisturbed until skin releases and is golden (HEAT/Rendering FAT).",
+        "Flip chicken and cook through.",
+        "Remove chicken from skillet.",
+        "Add sliced onions to the rendered chicken schmaltz.",
+        "Cook onions slowly until brown.",
+        "Slice apples into wedges.",
+        "Add apples to the pan with thyme and cook until apples are tender but hold shape.",
+        "The apples act as the ACID component here, roasted to concentrate flavor, cutting the richness of the schmaltz and thigh meat.",
+        "Serve chicken atop the apple-onion mixture."
+      ],
+      "prep_time_minutes": 40,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Herb-Crusted Pork Chops with Cauliflower Mash",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "pork chops", "freshness_days": 2, "quantity": "2 thick-cut", "category": "protein"},
+        {"name": "cauliflower", "freshness_days": 7, "quantity": "1 head", "category": "vegetable"},
+        {"name": "fresh sage", "freshness_days": 5, "quantity": "4 leaves", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "4 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "garlic", "freshness_days": 21, "quantity": "2 cloves", "category": "vegetable"}
+      ],
+      "prep_steps": [
+        "Salt pork chops generously on all sides 30 minutes before cooking (SALT).",
+        "Steam cauliflower until very tender.",
+        "Blend cauliflower with 2 tbsp olive oil and salt until smooth.",
+        "Heat remaining oil in a skillet over high heat (about 450°F).",
+        "Add sage leaves to fry for 30 seconds (blooming flavor in FAT).",
+        "Remove sage from skillet.",
+        "Sear pork chops in the sage-infused oil until golden brown (Maillard/HEAT).",
+        "Grate the tart green apple into a small bowl.",
+        "Serve pork over mash, topped with the fried sage and a spoonful of fresh grated apple to provide a raw, bright ACID contrast."
+      ],
+      "prep_time_minutes": 35,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Rice Flour Crepes with Sautéed Apples",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "rice flour", "freshness_days": 365, "quantity": "1/2 cup", "category": "grain"},
+        {"name": "fresh eggs", "freshness_days": 21, "quantity": "2 large", "category": "protein"},
+        {"name": "coconut milk", "freshness_days": 5, "quantity": "1/2 cup", "category": "dairy_alternative"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "2 medium", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "salt", "freshness_days": 365, "quantity": "pinch", "category": "seasoning"}
+      ],
+      "prep_steps": [
+        "Whisk rice flour, eggs, coconut milk, and a pinch of salt until smooth.",
+        "Let batter rest for 10 minutes (Hydration improves texture).",
+        "Peel and slice apples.",
+        "Heat 1 tbsp oil in a skillet over medium heat (about 325°F).",
+        "Add apples and a tiny pinch of salt (draws out moisture).",
+        "Sauté apples until caramelized and soft.",
+        "In a separate non-stick pan, heat remaining oil over medium heat (about 325°F).",
+        "Pour thin layers of batter to make crepes.",
+        "Cook crepes 1-2 minutes per side until edges crisp (HEAT).",
+        "Fill warm crepes with the hot apple mixture. The cooked apple provides both sweetness and concentrated acidity (ACID)."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.5,
+      "servings": 2
+    },
+    {
+      "name": "Turkey and Sage Breakfast Patties",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "ground turkey", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "fresh sage", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"},
+        {"name": "zucchini", "freshness_days": 5, "quantity": "1 medium", "category": "vegetable"}
+      ],
+      "prep_steps": [
+        "Mix turkey with minced sage and generous salt.",
+        "Work the meat aggressively with your hands until it becomes sticky (Development of myosin for texture).",
+        "Form turkey mixture into patties.",
+        "Core the apple.",
+        "Slice apple into thick rounds (rings).",
+        "Heat oil in a skillet over medium-high heat (about 375°F).",
+        "Sear apple rings for 2 minutes per side until browned.",
+        "Remove apple rings from skillet.",
+        "In the same hot fat, sear turkey patties for 3-4 minutes per side until a deep crust forms (HEAT/Maillard).",
+        "Slice zucchini into ribbons.",
+        "Salt zucchini lightly.",
+        "Serve patties stacked on apple rings. The tart, cooked apple cuts through the savory meat (ACID)."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Savory Pork Congee with Ginger",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "ground pork", "freshness_days": 2, "quantity": "200g", "category": "protein"},
+        {"name": "white rice", "freshness_days": 365, "quantity": "1/2 cup", "category": "grain"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "2 inches", "category": "spice"},
+        {"name": "chicken broth", "freshness_days": 2, "quantity": "4 cups", "category": "liquid"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "scallions", "freshness_days": 7, "quantity": "2 stalks", "category": "herb"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Rinse rice and freeze it overnight if possible (breaks grain structure for faster cooking), or just use raw.",
+        "Boil rice with broth and ginger slices.",
+        "Simmer rice for 30-40 minutes until it disintegrates into a creamy porridge (Starch release).",
+        "Heat coconut oil in a separate pan over medium-high heat (about 375°F).",
+        "Fry ground pork in the hot oil with salt until crispy and browned (FAT creates crispy edges).",
+        "Julienne the tart green apple into fine matchsticks.",
+        "Ladle hot congee into bowls.",
+        "Drizzle a little of the rendered pork fat over each bowl.",
+        "Top congee with crispy pork, scallions, and the raw apple matchsticks. The raw apple provides the necessary crunch and ACID to balance the rich, creamy porridge."
+      ],
+      "prep_time_minutes": 45,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Chicken and Cabbage Slaw with Apple Dressing",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "chicken breast", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "green cabbage", "freshness_days": 14, "quantity": "1/2 head", "category": "vegetable"},
+        {"name": "red onion", "freshness_days": 14, "quantity": "1/4 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "3 tbsp", "category": "fat"},
+        {"name": "fresh parsley", "freshness_days": 3, "quantity": "2 tbsp", "category": "herb"}
+      ],
+      "prep_steps": [
+        "Pound chicken breast to even thickness.",
+        "Salt chicken heavily.",
+        "Sear chicken in hot olive oil over medium-high heat (about 375°F) until golden and cooked through.",
+        "Remove chicken from pan and rest.",
+        "Slice chicken.",
+        "Shred cabbage.",
+        "Slice onion thinly.",
+        "Toss cabbage and onion with a large pinch of salt.",
+        "Massage cabbage and onion with hands to soften (Mechanical breakdown/SALT).",
+        "Grate half the apple into a pulp.",
+        "Whisk apple pulp with remaining olive oil to make a dressing (Natural ACID emulsifier).",
+        "Slice the other half of the apple.",
+        "Toss warm chicken, cabbage, and apple slices with the dressing. The heat from the chicken will slightly wilt the slaw."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Lamb Stuffed Zucchini Boats",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "ground lamb", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "zucchini", "freshness_days": 5, "quantity": "2 large", "category": "vegetable"},
+        {"name": "garlic", "freshness_days": 21, "quantity": "2 cloves", "category": "vegetable"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "fresh mint", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 400°F.",
+        "Slice zucchini lengthwise and scoop out seeds.",
+        "Rub zucchini boats with oil and salt.",
+        "Roast zucchini boats empty for 10 minutes to drive off moisture (Concentrates flavor).",
+        "Brown ground lamb in a skillet over medium-high heat (about 375°F) with minced garlic and salt.",
+        "Cook lamb until fat renders (FAT).",
+        "Fill zucchini boats with lamb mixture.",
+        "Return zucchini boats to oven for 10 minutes.",
+        "Finely dice the tart green apple.",
+        "Mix diced apple with chopped mint.",
+        "Top the hot, rich lamb boats with the cold apple-mint relish. The temperature and flavor contrast (ACID/Freshness) is key."
+      ],
+      "prep_time_minutes": 35,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Cold Rice Salad with Cucumber and Chicken",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "cooked white rice", "freshness_days": 2, "quantity": "2 cups", "category": "grain"},
+        {"name": "chicken thighs", "freshness_days": 2, "quantity": "200g", "category": "protein"},
+        {"name": "cucumber", "freshness_days": 7, "quantity": "1 large", "category": "vegetable"},
+        {"name": "radishes", "freshness_days": 10, "quantity": "4 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "3 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Use leftover cold rice (Texture is better for salad).",
+        "Season chicken thighs with salt.",
+        "Sear chicken in a hot pan over medium-high heat (about 400°F) until crispy (HEAT).",
+        "Remove chicken from pan and cool.",
+        "Chop chicken.",
+        "Dice cucumber into small cubes.",
+        "Dice radishes into small cubes.",
+        "Dice tart green apple into small cubes (Uniformity ensures a balanced bite).",
+        "Toss rice, chicken, and veggies with olive oil and extra salt.",
+        "The tart apple cubes act as the 'vinegar' component in this salad (ACID), brightening the starchy rice."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.9,
+      "servings": 2
+    },
+    {
+      "name": "Crispy Pork Belly with Braised Bok Choy",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "pork belly slices", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "bok choy", "freshness_days": 5, "quantity": "4 heads", "category": "vegetable"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "1 inch", "category": "spice"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Score pork belly skin if applicable.",
+        "Salt pork belly heavily.",
+        "Start pork in a cold pan, skin side down.",
+        "Turn heat to medium (about 325-350°F).",
+        "Render pork slowly for 15 minutes until skin is crackling (FAT/HEAT control).",
+        "Flip pork and cook meat side.",
+        "Remove pork from pan.",
+        "Leave 2 tbsp fat in pan.",
+        "Add ginger and halved bok choy to the hot pork fat.",
+        "Sear bok choy cut-side down.",
+        "Grate half the apple into the pan with a splash of water.",
+        "Cover and steam bok choy for 3 minutes.",
+        "Serve pork with the glazed bok choy. The apple-ginger glaze cuts the extreme richness of the belly (ACID)."
+      ],
+      "prep_time_minutes": 35,
+      "reusability_index": 0.6,
+      "servings": 2
+    },
+    {
+      "name": "Roasted Chicken with Turnips",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "chicken legs", "freshness_days": 2, "quantity": "2 whole", "category": "protein"},
+        {"name": "turnips", "freshness_days": 14, "quantity": "3 medium", "category": "vegetable"},
+        {"name": "fresh rosemary", "freshness_days": 7, "quantity": "2 sprigs", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 425°F (High HEAT needed for skin).",
+        "Salt chicken generously.",
+        "Peel and wedge turnips.",
+        "Toss turnips with oil and salt.",
+        "Arrange turnips in a cast iron skillet.",
+        "Place chicken legs on top of turnips (Chicken fat will baste the turnips - FAT).",
+        "Roast for 35 minutes.",
+        "Slice the apple into thick wedges.",
+        "Tuck apple wedges into the pan with the chicken for the last 10 minutes.",
+        "The apples will soften and roast, providing a tart, warm compote to eat with the salty chicken skin (ACID)."
+      ],
+      "prep_time_minutes": 50,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Lamb and Cabbage Unstuffed Bowl",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "ground lamb", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "green cabbage", "freshness_days": 14, "quantity": "1/2 head", "category": "vegetable"},
+        {"name": "onion", "freshness_days": 14, "quantity": "1 medium", "category": "vegetable"},
+        {"name": "white rice", "freshness_days": 365, "quantity": "1 cup", "category": "grain"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Cook rice separately in salted water.",
+        "Heat oil in a large pot over high heat (about 450°F).",
+        "Brown the lamb deeply with salt (HEAT).",
+        "Remove lamb from pot.",
+        "Add chopped cabbage and onion to the lamb fat (FAT).",
+        "Sauté cabbage and onion until soft and sweet.",
+        "Return lamb to pot.",
+        "Juice the tart green apple (using a grater and squeeze method).",
+        "Pour the raw apple juice into the hot pot, scraping up the fond (ACID deglaze).",
+        "Serve the mixture over the rice."
+      ],
+      "prep_time_minutes": 30,
+      "reusability_index": 0.85,
+      "servings": 2
+    },
+    {
+      "name": "Seared Turkey Breast with Sautéed Cucumbers",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "turkey breast cutlets", "freshness_days": 2, "quantity": "2 large", "category": "protein"},
+        {"name": "cucumber", "freshness_days": 7, "quantity": "2 large", "category": "vegetable"},
+        {"name": "fresh dill", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Slice cucumbers into thick batons.",
+        "Salt cucumbers and let sit for 10 mins to draw out water (SALT).",
+        "Pat cucumbers dry.",
+        "Season turkey cutlets with salt.",
+        "Heat oil in a skillet over high heat (about 450°F).",
+        "Sear turkey quickly (2-3 mins per side).",
+        "Remove turkey from skillet.",
+        "Add cucumbers to the hot pan.",
+        "Sear cucumbers for 2 minutes—cooked cucumber becomes silky and savory (Texture transformation via HEAT).",
+        "Toss cucumbers with fresh dill.",
+        "Slice tart green apple thinly.",
+        "Serve turkey and cucumbers with the raw apple slices to provide the necessary ACID snap against the soft, warm cucumber."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Homemade Pork and Apple Sausage Patties",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "ground pork", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "fresh sage", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"},
+        {"name": "salt", "freshness_days": 365, "quantity": "1 tsp", "category": "seasoning"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"},
+        {"name": "zucchini", "freshness_days": 5, "quantity": "1 medium", "category": "vegetable"}
+      ],
+      "prep_steps": [
+        "Grate the tart green apple.",
+        "Mix grated apple thoroughly with ground pork, minced sage, and salt.",
+        "Work the meat mixture with your hands for 1 minute until it becomes tacky (SALT/Mechanical action helps bind the sausage without eggs).",
+        "Form meat mixture into patties.",
+        "Heat coconut oil in a skillet over medium heat (about 325°F).",
+        "Add patties to skillet.",
+        "Cook patties 4 minutes per side until deeply browned (HEAT). The apple inside keeps them moist while the sugar caramelizes.",
+        "Remove patties from skillet.",
+        "Slice zucchini into rounds.",
+        "In the same pan (using the pork fat), quickly sauté zucchini rounds.",
+        "Serve patties with zucchini. The grated apple provides internal ACID/Sweetness balance."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Crispy Rice Cakes with Melon",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "cooked white rice", "freshness_days": 3, "quantity": "1.5 cups", "category": "grain"},
+        {"name": "coconut milk", "freshness_days": 5, "quantity": "2 tbsp", "category": "dairy_alternative"},
+        {"name": "fresh eggs", "freshness_days": 21, "quantity": "1 large", "category": "protein"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "cantaloupe melon", "freshness_days": 5, "quantity": "1 cup", "category": "fruit"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Mix cold leftover rice with egg, coconut milk, and a pinch of salt (Starch binds better when cold).",
+        "Form rice mixture into thick pucks.",
+        "Heat generous coconut oil in a non-stick pan over medium-high heat (about 375°F). FAT is crucial for the crust.",
+        "Add rice cakes to pan.",
+        "Fry rice cakes undisturbed for 5 minutes per side until golden brown and crispy (HEAT).",
+        "Dice cantaloupe.",
+        "Dice tart green apple.",
+        "Mix cantaloupe and apple together.",
+        "Serve hot, crunchy rice cakes topped with the fruit salad. The tart apple creates a sharp ACID contrast to the rich, fried rice."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.5,
+      "servings": 2
+    },
+    {
+      "name": "Zucchini Frittata with Apple Salad",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "fresh eggs", "freshness_days": 21, "quantity": "5 large", "category": "protein"},
+        {"name": "zucchini", "freshness_days": 5, "quantity": "2 medium", "category": "vegetable"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "fresh chives", "freshness_days": 5, "quantity": "2 tbsp", "category": "herb"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 350°F.",
+        "Whisk eggs with salt and chives.",
+        "Slice zucchini into rounds.",
+        "Heat oil in an oven-safe skillet over medium-high heat (about 375°F).",
+        "Fry zucchini until golden brown (Flavor development via HEAT).",
+        "Pour eggs over the zucchini.",
+        "Let the bottom set on the stove for 2 minutes.",
+        "Transfer skillet to oven and bake 8-10 minutes until puffed and set.",
+        "Julienne the tart green apple.",
+        "Top the rich, savory frittata with a pile of raw apple strips to cut the richness (ACID)."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Ground Pork and Green Bean Stir-Fry",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "ground pork", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "green beans", "freshness_days": 5, "quantity": "200g", "category": "vegetable"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "1 inch", "category": "spice"},
+        {"name": "garlic", "freshness_days": 21, "quantity": "2 cloves", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Trim green beans.",
+        "Mince ginger finely.",
+        "Mince garlic finely.",
+        "Heat wok or skillet to very high heat (about 450-500°F).",
+        "Add oil and green beans.",
+        "Blister beans for 3 minutes, then remove.",
+        "Add ground pork to the hot pan.",
+        "Press pork flat to sear, then break up.",
+        "Season pork with salt.",
+        "When pork is cooked, add aromatics (ginger/garlic) and fry for 30 seconds in the pork fat (FAT blooming).",
+        "Return beans to pan.",
+        "Grate the tart green apple directly into the pan and toss vigorously. The apple juice deglazes the pan and creates a sticky, sweet-sour glaze (ACID)."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Chicken Meatballs with Cauliflower Rice",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "ground chicken", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "cauliflower", "freshness_days": 7, "quantity": "1 head", "category": "vegetable"},
+        {"name": "scallions", "freshness_days": 7, "quantity": "2 stalks", "category": "herb"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "1 tsp", "category": "spice"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Mix chicken, minced scallions, ginger, and salt.",
+        "Form chicken mixture into small meatballs.",
+        "Pulse cauliflower in a food processor into 'rice'.",
+        "Heat oil in a skillet over medium-high heat (about 375°F).",
+        "Brown meatballs on all sides.",
+        "Remove meatballs from skillet.",
+        "Add cauliflower rice to the chicken fat remaining in the pan (FAT).",
+        "Sauté cauliflower rice with salt until tender-crisp.",
+        "Finely dice the tart green apple.",
+        "Serve meatballs over cauliflower rice. Stir the raw apple dice into the warm rice right before eating for a texture and ACID pop."
+      ],
+      "prep_time_minutes": 30,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Turkey Schnitzel with Cucumber Salad",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "turkey breast cutlets", "freshness_days": 2, "quantity": "2 large", "category": "protein"},
+        {"name": "rice flour", "freshness_days": 365, "quantity": "1/4 cup", "category": "grain"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "4 tbsp", "category": "fat"},
+        {"name": "cucumber", "freshness_days": 7, "quantity": "1 large", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "fresh dill", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"}
+      ],
+      "prep_steps": [
+        "Pound turkey cutlets until very thin (Mechanical tenderization).",
+        "Salt turkey cutlets well.",
+        "Dredge turkey in rice flour, shaking off excess.",
+        "Heat a significant amount of oil in a pan over medium-high heat (about 350-375°F). Oil should shimmer when ready for frying.",
+        "Fry cutlets 2-3 minutes per side until golden and crispy (HEAT).",
+        "Drain cutlets on rack.",
+        "Slice cucumber into matchsticks.",
+        "Slice tart green apple into matchsticks.",
+        "Toss cucumber and apple with dill and salt.",
+        "Serve the rich, fried schnitzel with the refreshing, watery crunch of the cucumber-apple salad (ACID)."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.6,
+      "servings": 2
+    },
+    {
+      "name": "Braised Pork Chops with Cabbage",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "pork chops", "freshness_days": 2, "quantity": "2 bone-in", "category": "protein"},
+        {"name": "green cabbage", "freshness_days": 14, "quantity": "1/2 head", "category": "vegetable"},
+        {"name": "onion", "freshness_days": 14, "quantity": "1 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Season pork chops heavily with salt.",
+        "Heat oil in a heavy pot over high heat (about 450°F).",
+        "Sear chops until browned.",
+        "Remove chops from pot.",
+        "Slice cabbage.",
+        "Slice onion.",
+        "Add sliced cabbage and onion to the pork fat.",
+        "Sauté cabbage and onion until wilting.",
+        "Peel and slice the apple.",
+        "Add apple to the pot.",
+        "Add a splash of water, return chops to the pot, cover, and reduce heat to low.",
+        "Braise for 15 minutes. The apple will dissolve into a sauce, providing the ACID to balance the savory pork and sweet cabbage."
+      ],
+      "prep_time_minutes": 35,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Roast Chicken with Fennel and Apple",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "chicken thighs", "freshness_days": 2, "quantity": "4 pieces", "category": "protein"},
+        {"name": "fennel bulb", "freshness_days": 7, "quantity": "2 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 425°F.",
+        "Salt chicken thighs thoroughly.",
+        "Slice fennel bulb into wedges (Keep fronds for garnish).",
+        "Slice apple into wedges.",
+        "Toss fennel and apple with olive oil and salt in a baking dish.",
+        "Place chicken thighs skin-side up on top of the vegetables.",
+        "Roast for 40 minutes. The chicken fat will render and cook the fennel (FAT).",
+        "The roasted apple provides a warm, mellow ACID that compliments the anise flavor of the fennel."
+      ],
+      "prep_time_minutes": 50,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Lamb Kebabs with Apple Slaw",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "ground lamb", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "garlic", "freshness_days": 21, "quantity": "2 cloves", "category": "vegetable"},
+        {"name": "cumin", "freshness_days": 365, "quantity": "1 tsp", "category": "spice"},
+        {"name": "red cabbage", "freshness_days": 14, "quantity": "2 cups", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Mix lamb, minced garlic, cumin, and salt.",
+        "Form lamb mixture into oblong kebabs.",
+        "Heat a grill pan or cast iron skillet to high heat (about 450°F).",
+        "Sear kebabs for 3-4 minutes per side until charred on the outside but juicy inside.",
+        "Shred red cabbage.",
+        "Julienne the tart green apple.",
+        "Toss cabbage and apple with olive oil and salt.",
+        "Massage cabbage and apple slightly to soften.",
+        "Serve rich, fatty lamb with the crunchy, tart slaw (ACID cuts the fat)."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Seared Duck Breast with Parsnip Puree",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "duck breast", "freshness_days": 2, "quantity": "2 pieces", "category": "protein"},
+        {"name": "parsnips", "freshness_days": 14, "quantity": "3 large", "category": "vegetable"},
+        {"name": "coconut milk", "freshness_days": 5, "quantity": "1/4 cup", "category": "dairy_alternative"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Score duck skin.",
+        "Salt duck well.",
+        "Place duck in a cold pan, skin side down.",
+        "Turn heat to medium (about 325°F).",
+        "Render fat for 8-10 minutes until skin is thin and crispy.",
+        "Flip duck and cook 2 minutes (FAT/HEAT).",
+        "Remove duck and rest meat.",
+        "While duck cooks, boil parsnips in salted water until soft.",
+        "Mash parsnips with coconut milk.",
+        "Dice the tart green apple.",
+        "Quickly sauté the apple dice in the hot duck fat remaining in the pan for 1 minute.",
+        "Serve duck over puree, topped with the warm, fat-coated apple (ACID/Sweetness)."
+      ],
+      "prep_time_minutes": 35,
+      "reusability_index": 0.65,
+      "servings": 2
+    },
+    {
+      "name": "Millet Porridge with Caramelized Apple",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "millet", "freshness_days": 365, "quantity": "1/2 cup", "category": "grain"},
+        {"name": "coconut milk", "freshness_days": 5, "quantity": "1 cup", "category": "dairy_alternative"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 large", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"},
+        {"name": "salt", "freshness_days": 365, "quantity": "pinch", "category": "seasoning"}
+      ],
+      "prep_steps": [
+        "Toast millet in a dry pan over medium heat (about 325°F) until fragrant.",
+        "Add water and a pinch of salt to the millet.",
+        "Simmer millet for 20 minutes.",
+        "Stir in coconut milk and cook for another 5 minutes until creamy.",
+        "While millet cooks, dice the apple.",
+        "Heat coconut oil in a small skillet over medium-high heat (about 375°F).",
+        "Add apple and a pinch of salt.",
+        "Cook apple over medium-high heat without stirring for 2 minutes to get brown edges (Maillard reaction), then stir.",
+        "Top the creamy millet with the hot, browned apples. The cooked fruit provides sweetness and a mellowed ACID."
+      ],
+      "prep_time_minutes": 30,
+      "reusability_index": 0.6,
+      "servings": 2
+    },
+    {
+      "name": "Chicken and Apple Breakfast Hash",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "ground chicken", "freshness_days": 2, "quantity": "250g", "category": "protein"},
+        {"name": "rutabaga", "freshness_days": 14, "quantity": "1 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "fresh sage", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Dice rutabaga into small cubes.",
+        "Heat oil in a large skillet over medium heat (about 325°F).",
+        "Add rutabaga and salt.",
+        "Cook rutabaga covered for 5 minutes, then uncovered to brown.",
+        "Push rutabaga to the side.",
+        "Increase heat to high (HEAT).",
+        "Add ground chicken and sage.",
+        "Let chicken brown deeply before breaking it up.",
+        "Mix chicken with rutabaga.",
+        "Turn off heat.",
+        "Dice tart green apple.",
+        "Immediately stir diced apple into the hash.",
+        "The residual heat warms the apple but keeps it crisp (Texture), providing an ACID pop against the savory chicken."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Rice Flour Pancakes with Duck Fat",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "rice flour", "freshness_days": 365, "quantity": "1/2 cup", "category": "grain"},
+        {"name": "fresh eggs", "freshness_days": 21, "quantity": "2 large", "category": "protein"},
+        {"name": "duck fat", "freshness_days": 30, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "coconut milk", "freshness_days": 5, "quantity": "1/2 cup", "category": "dairy_alternative"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Whisk flour, eggs, milk, and salt. The batter should be thin.",
+        "Heat 1 tbsp duck fat in a cast iron skillet over medium heat (about 325°F). Duck FAT adds savory depth.",
+        "Pour batter to form a large pancake.",
+        "Cook pancake until edges crisp.",
+        "Remove pancake from skillet.",
+        "Slice apple thinly.",
+        "Serve pancake with raw apple slices rolled inside. The contrast of hot, savory fat and cold, tart ACID is the focus."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.5,
+      "servings": 2
+    },
+    {
+      "name": "Steamed Chicken with Ginger Rice",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "chicken breast", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "white rice", "freshness_days": 365, "quantity": "1 cup", "category": "grain"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "2 inches", "category": "spice"},
+        {"name": "scallions", "freshness_days": 7, "quantity": "2 stalks", "category": "herb"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Slice chicken thin.",
+        "Toss chicken with julienned ginger and salt.",
+        "Cook rice.",
+        "While rice is hot, stir in sliced scallions and olive oil (FAT coats grains).",
+        "Steam chicken slices for 6-8 minutes (Gentle HEAT keeps it moist).",
+        "Grate the tart green apple into a pulp.",
+        "Serve chicken over rice, topped with a dollop of fresh apple pulp. The raw apple acts as a refreshing condiment (ACID)."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Pork and Bok Choy Noodle Bowl",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "rice noodles", "freshness_days": 365, "quantity": "150g", "category": "grain"},
+        {"name": "ground pork", "freshness_days": 2, "quantity": "200g", "category": "protein"},
+        {"name": "bok choy", "freshness_days": 5, "quantity": "3 heads", "category": "vegetable"},
+        {"name": "garlic", "freshness_days": 21, "quantity": "2 cloves", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Boil rice noodles.",
+        "Drain noodles and rinse with cold water (stops cooking/texture).",
+        "Brown pork in a wok over high heat (about 450°F) with salt.",
+        "Add minced garlic to the pork.",
+        "Add chopped bok choy and toss until wilted.",
+        "Juice the apple or grate finely.",
+        "Add apple juice to the pan to deglaze (ACID).",
+        "Toss noodles back into the hot pork/veg mixture just to warm through (HEAT).",
+        "Serve immediately."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Turkey Salad with Crispy Skin",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "turkey thighs", "freshness_days": 2, "quantity": "2 pieces", "category": "protein"},
+        {"name": "lettuce (iceberg or butter)", "freshness_days": 5, "quantity": "1 head", "category": "vegetable"},
+        {"name": "radishes", "freshness_days": 10, "quantity": "4 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Remove skin from turkey.",
+        "Bake skin between two baking sheets at 400°F until flat and crispy (Crackling/Texture).",
+        "Poach turkey meat in salted water until tender.",
+        "Shred the poached turkey.",
+        "Chop lettuce.",
+        "Chop radishes.",
+        "Chop apple.",
+        "Dress salad with olive oil and salt.",
+        "Top salad with warm shredded turkey and crumbled crispy skin (FAT/Salt bomb). The apple provides the cutting ACID."
+      ],
+      "prep_time_minutes": 40,
+      "reusability_index": 0.6,
+      "servings": 2
+    },
+    {
+      "name": "Roast Duck with Mashed Rutabaga",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "duck legs", "freshness_days": 2, "quantity": "2 pieces", "category": "protein"},
+        {"name": "rutabaga", "freshness_days": 14, "quantity": "2 large", "category": "vegetable"},
+        {"name": "fresh thyme", "freshness_days": 5, "quantity": "2 sprigs", "category": "herb"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Salt duck legs.",
+        "Roast duck at 350°F for 1 hour (Slow HEAT renders fat).",
+        "Cube rutabaga.",
+        "Boil rutabaga cubes until soft.",
+        "Drain rutabaga.",
+        "Mash rutabaga with 2 tbsp of the rendered hot duck fat from the roasting pan (FAT) and salt.",
+        "Increase oven heat to 425°F to crisp duck skin for the last 10 mins.",
+        "Slice apple into wedges.",
+        "Serve duck and mash with raw apple wedges to cleanse the palate (ACID)."
+      ],
+      "prep_time_minutes": 80,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Pork Meatballs in Apple Broth",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "ground pork", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "ginger", "freshness_days": 21, "quantity": "1 inch", "category": "spice"},
+        {"name": "chicken broth", "freshness_days": 2, "quantity": "2 cups", "category": "liquid"},
+        {"name": "bok choy", "freshness_days": 5, "quantity": "2 heads", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Mix pork with grated ginger and salt.",
+        "Form pork mixture into small balls.",
+        "Heat coconut oil in a pot over medium-high heat (about 375°F).",
+        "Brown meatballs on all sides in the hot oil (FAT adds flavor and texture).",
+        "Add broth to the pot and bring to a boil.",
+        "Reduce heat and simmer meatballs for 10 minutes.",
+        "Add bok choy to broth.",
+        "Grate half the apple into the broth.",
+        "Slice the other half of the apple.",
+        "The grated apple dissolves, creating a sweet-tart soup base (ACID/Sweetness balance).",
+        "Serve soup garnished with raw apple slices."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Lamb Steaks with Charred Cabbage",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "lamb leg steaks", "freshness_days": 2, "quantity": "2 pieces", "category": "protein"},
+        {"name": "green cabbage", "freshness_days": 14, "quantity": "1/2 head", "category": "vegetable"},
+        {"name": "garlic", "freshness_days": 21, "quantity": "2 cloves", "category": "vegetable"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Cut cabbage into thick wedges.",
+        "Rub cabbage with oil and salt.",
+        "Heat a cast iron skillet to smoking (about 500°F).",
+        "Char cabbage wedges for 4-5 minutes per side.",
+        "Remove cabbage from skillet.",
+        "Add more oil to skillet.",
+        "Sear lamb steaks 3 minutes per side.",
+        "Remove lamb and rest.",
+        "Mince garlic.",
+        "Mince apple.",
+        "Mix raw garlic and apple with a splash of olive oil to make a 'chimichurri' style topping (ACID/Aromatics).",
+        "Serve steak and cabbage topped with the apple mixture."
+      ],
+      "prep_time_minutes": 30,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Chicken Thighs with Roasted Carrots",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "chicken thighs", "freshness_days": 2, "quantity": "4 pieces", "category": "protein"},
+        {"name": "carrots", "freshness_days": 14, "quantity": "4 large", "category": "vegetable"},
+        {"name": "fresh thyme", "freshness_days": 5, "quantity": "2 sprigs", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 400°F.",
+        "Toss carrots with oil and salt.",
+        "Lay carrots on baking sheet.",
+        "Salt chicken thighs.",
+        "Place chicken thighs on top of carrots (FAT basting).",
+        "Roast for 40 minutes.",
+        "Grate the tart green apple.",
+        "Remove tray from oven.",
+        "Sprinkle grated apple over the hot carrots and chicken. The heat will release the apple aroma immediately (ACID finish).",
+        "Serve."
+      ],
+      "prep_time_minutes": 45,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Coconut Rice Pudding with Poached Apple",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "white rice", "freshness_days": 365, "quantity": "1 cup", "category": "grain"},
+        {"name": "coconut milk", "freshness_days": 5, "quantity": "1.5 cups", "category": "dairy_alternative"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "maple syrup", "freshness_days": 365, "quantity": "1 tbsp", "category": "sweetener"},
+        {"name": "salt", "freshness_days": 365, "quantity": "pinch", "category": "seasoning"}
+      ],
+      "prep_steps": [
+        "Simmer rice with water and a pinch of salt until tender.",
+        "Add coconut milk and maple syrup to rice.",
+        "Cook rice on low heat until creamy (Texture).",
+        "Peel the apple.",
+        "Quarter the apple.",
+        "Poach apple gently in a small amount of water until translucent but firm.",
+        "Serve warm rice pudding topped with the soft poached apple.",
+        "The gentle acidity of the poached fruit cuts through the rich coconut fat (ACID/FAT Balance)."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.6,
+      "servings": 2
+    },
+    {
+      "name": "Pork Belly and Egg Breakfast Bowl",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "pork belly", "freshness_days": 2, "quantity": "200g", "category": "protein"},
+        {"name": "fresh eggs", "freshness_days": 21, "quantity": "2 large", "category": "protein"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "cucumber", "freshness_days": 7, "quantity": "1 medium", "category": "vegetable"}
+      ],
+      "prep_steps": [
+        "Slice pork belly into thick chunks.",
+        "Salt pork belly well.",
+        "Place pork in a cold skillet.",
+        "Bring heat up slowly to medium (about 300-325°F) to crisp the fat (FAT/HEAT).",
+        "Remove pork from skillet.",
+        "Fry eggs in the rendered pork fat until edges are crispy.",
+        "Slice cucumber into batons.",
+        "Slice apple into batons.",
+        "Serve the rich pork and eggs with the cold, crunchy cucumber and apple salad to cleanse the palate (ACID)."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.5,
+      "servings": 2
+    },
+    {
+      "name": "Turkey Sausage with Sautéed Cabbage",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "breakfast",
+      "ingredients": [
+        {"name": "ground turkey", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "green cabbage", "freshness_days": 14, "quantity": "1/4 head", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "fresh sage", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Mix turkey, minced sage, and salt.",
+        "Form turkey mixture into patties.",
+        "Heat oil in a skillet over medium-high heat (about 375°F).",
+        "Sear patties until browned and cooked through.",
+        "Remove patties from skillet.",
+        "Slice cabbage thinly.",
+        "Sauté cabbage in the turkey fat until soft.",
+        "Grate the apple directly into the cabbage.",
+        "Cook cabbage and apple for 1 minute.",
+        "Serve sausages on the bed of sweet-tart cabbage (ACID/Veg)."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Chicken and Zucchini Skewers",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "chicken breast", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "zucchini", "freshness_days": 5, "quantity": "2 medium", "category": "vegetable"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "fresh dill", "freshness_days": 5, "quantity": "1 tbsp", "category": "herb"}
+      ],
+      "prep_steps": [
+        "Cube chicken.",
+        "Cube zucchini.",
+        "Toss chicken and zucchini with olive oil and salt.",
+        "Thread chicken and zucchini onto skewers.",
+        "Grill or pan-sear skewers over high heat (about 450°F) until charred.",
+        "Puree the tart green apple with dill and a pinch of salt to make a raw dipping sauce.",
+        "Serve hot skewers with the cold, tart apple sauce (ACID)."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Pork Stir-Fry with Cauliflower Rice",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "pork tenderloin", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "cauliflower", "freshness_days": 7, "quantity": "1 head", "category": "vegetable"},
+        {"name": "bok choy", "freshness_days": 5, "quantity": "2 heads", "category": "vegetable"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "1 inch", "category": "spice"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "coconut oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Process cauliflower into rice granules.",
+        "Slice pork thin.",
+        "Salt pork well.",
+        "Sear pork in smoking hot oil (about 450-500°F).",
+        "Remove pork from pan.",
+        "Mince ginger.",
+        "Fry ginger and cauliflower rice in remaining fat (FAT).",
+        "Add bok choy to pan.",
+        "Stir pork back in.",
+        "Julienne the tart green apple.",
+        "Finish with julienned raw apple for crunch and ACID."
+      ],
+      "prep_time_minutes": 25,
+      "reusability_index": 0.8,
+      "servings": 2
+    },
+    {
+      "name": "Turkey Burgers with Apple Relish",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "lunch",
+      "ingredients": [
+        {"name": "ground turkey", "freshness_days": 2, "quantity": "300g", "category": "protein"},
+        {"name": "lettuce (iceberg)", "freshness_days": 5, "quantity": "1 head", "category": "vegetable"},
+        {"name": "cucumber", "freshness_days": 7, "quantity": "1 medium", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Season turkey with salt.",
+        "Form turkey into patties.",
+        "Heat oil in pan over medium-high heat (about 375°F).",
+        "Pan-sear patties until a crust forms (Maillard reaction).",
+        "Remove patties from pan.",
+        "Dice apple finely.",
+        "Dice cucumber finely.",
+        "Mix apple and cucumber with a drizzle of olive oil and salt.",
+        "Use large lettuce leaves as 'buns'.",
+        "Place hot burger in lettuce, top generously with the cold apple-cucumber relish (ACID/Crunch)."
+      ],
+      "prep_time_minutes": 20,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Slow Roasted Lamb with Rutabaga",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "lamb shoulder chops", "freshness_days": 2, "quantity": "2 pieces", "category": "protein"},
+        {"name": "rutabaga", "freshness_days": 14, "quantity": "2 large", "category": "vegetable"},
+        {"name": "fresh rosemary", "freshness_days": 7, "quantity": "2 sprigs", "category": "herb"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 325°F (Low HEAT for tenderizing).",
+        "Salt lamb chops.",
+        "Cube rutabaga.",
+        "Toss rutabaga with olive oil and salt (FAT helps roasting and carries flavor).",
+        "Place lamb chops in a baking dish.",
+        "Surround lamb with the oiled rutabaga and rosemary.",
+        "Cover baking dish tightly with foil.",
+        "Bake for 90 minutes until meat falls apart.",
+        "Remove foil.",
+        "Increase heat to 425°F to brown the top.",
+        "Grate the tart apple over the finished dish. The raw acid cuts the heavy collagen richness (ACID)."
+      ],
+      "prep_time_minutes": 100,
+      "reusability_index": 0.7,
+      "servings": 2
+    },
+    {
+      "name": "Pan-Seared Duck with Red Cabbage",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "duck breast", "freshness_days": 2, "quantity": "2 pieces", "category": "protein"},
+        {"name": "red cabbage", "freshness_days": 14, "quantity": "1/2 head", "category": "vegetable"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "fresh ginger", "freshness_days": 21, "quantity": "1 inch", "category": "spice"}
+      ],
+      "prep_steps": [
+        "Score duck skin.",
+        "Salt duck.",
+        "Place duck in a cold pan, skin side down.",
+        "Gradually increase heat to medium (about 325°F) and cook slowly until crisp (FAT/HEAT).",
+        "Remove duck from pan.",
+        "Shred cabbage.",
+        "Mince ginger.",
+        "Add shredded cabbage and ginger to the duck fat.",
+        "Sauté cabbage until soft.",
+        "Slice apple.",
+        "Add sliced apple and a splash of water to the pan.",
+        "Cover and braise for 5 minutes.",
+        "Slice the duck.",
+        "Serve sliced duck over the purple cabbage-apple mixture. The apple mimics the traditional wine/vinegar element (ACID)."
+      ],
+      "prep_time_minutes": 35,
+      "reusability_index": 0.65,
+      "servings": 2
+    },
+    {
+      "name": "Chicken Stew with Rice Dumplings",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "chicken thighs", "freshness_days": 2, "quantity": "4 pieces", "category": "protein"},
+        {"name": "carrots", "freshness_days": 14, "quantity": "3 medium", "category": "vegetable"},
+        {"name": "rice flour", "freshness_days": 365, "quantity": "1/2 cup", "category": "grain"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1/2 medium", "category": "fruit"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "1 tbsp", "category": "fat"}
+      ],
+      "prep_steps": [
+        "Salt chicken thighs.",
+        "Brown chicken in a pot over medium-high heat (about 375°F).",
+        "Remove chicken from pot.",
+        "Chop carrots.",
+        "Add chopped carrots to the pot.",
+        "Sauté carrots.",
+        "Return chicken to pot.",
+        "Add water to cover.",
+        "Simmer for 20 minutes.",
+        "Mix rice flour with water and salt to make a dough.",
+        "Drop small spoonfuls of dough into the simmering stew (Dumplings).",
+        "Cook dumplings for 5 minutes.",
+        "Grate the tart green apple.",
+        "Stir in grated apple right at the end to brighten the savory broth (ACID)."
+      ],
+      "prep_time_minutes": 40,
+      "reusability_index": 0.75,
+      "servings": 2
+    },
+    {
+      "name": "Pork Chops with Roasted Radishes",
+      "diet_tags": ["low_histamine", "low_oxalate"],
+      "meal_type": "dinner",
+      "ingredients": [
+        {"name": "pork chops", "freshness_days": 2, "quantity": "2 bone-in", "category": "protein"},
+        {"name": "radishes", "freshness_days": 10, "quantity": "2 bunches", "category": "vegetable"},
+        {"name": "olive oil", "freshness_days": 365, "quantity": "2 tbsp", "category": "fat"},
+        {"name": "tart green apple", "freshness_days": 14, "quantity": "1 medium", "category": "fruit"},
+        {"name": "fresh thyme", "freshness_days": 5, "quantity": "2 sprigs", "category": "herb"}
+      ],
+      "prep_steps": [
+        "Preheat oven to 400°F.",
+        "Halve radishes.",
+        "Toss radishes with oil and salt.",
+        "Roast radishes for 15 minutes.",
+        "Salt pork chops.",
+        "Sear pork chops in a hot skillet over high heat (about 450°F).",
+        "Add pork to the radish tray.",
+        "Roast pork and radishes together for 10 minutes.",
+        "Slice the apple into thin wedges.",
+        "Serve pork and radishes with raw apple slices. The bite of the raw apple contrasts the sweet roasted radish (ACID/Sweetness)."
+      ],
+      "prep_time_minutes": 35,
+      "reusability_index": 0.7,
+      "servings": 2
+    }
+  ]
+}

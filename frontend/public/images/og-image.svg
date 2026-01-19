@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" fill="none">
+  <!-- Background gradient -->
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#dcfce7"/>
+      <stop offset="100%" style="stop-color:#bbf7d0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="100" cy="100" r="200" fill="#16a34a" opacity="0.05"/>
+  <circle cx="1100" cy="530" r="250" fill="#16a34a" opacity="0.05"/>
+
+  <!-- Logo icon (centered, larger) -->
+  <g transform="translate(536, 180) scale(4)">
+    <path d="M16 2C8 6 4 14 4 22C4 26 6 30 10 30C14 30 18 26 20 20C22 14 20 8 16 2Z" fill="#16a34a"/>
+    <path d="M16 2C24 6 28 14 28 22C28 26 26 30 22 30" stroke="#16a34a" stroke-width="2" fill="none"/>
+    <path d="M16 8V24" stroke="#ffffff" stroke-width="2" stroke-linecap="round"/>
+    <path d="M12 14L16 18L20 14" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Brand name -->
+  <text x="600" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="72" font-weight="700" fill="#15803d" text-anchor="middle">
+    PrepPilot
+  </text>
+
+  <!-- Tagline -->
+  <text x="600" y="450" font-family="system-ui, -apple-system, sans-serif" font-size="36" font-weight="400" fill="#166534" text-anchor="middle">
+    Cook Fresh. Stay Safe.
+  </text>
+</svg>
