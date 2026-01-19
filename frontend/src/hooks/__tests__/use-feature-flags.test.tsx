@@ -1,3 +1,4 @@
+import { describe, it, expect, vi, beforeEach, Mock, Mocked } from 'vitest';
 import { renderHook, waitFor } from '@testing-library/react';
 import { QueryClient, QueryClientProvider } from '@tanstack/react-query';
 import { useFeatureFlags, isFeatureDisabledError, getFeatureDisabledMessage } from '../use-feature-flags';
@@ -6,19 +7,19 @@ import { useAuth } from '@/lib/auth-context';
 import { ReactNode } from 'react';
 
 // Mock the API
-jest.mock('@/lib/api', () => ({
+vi.mock('@/lib/api', () => ({
   featureFlagsApi: {
-    getAll: jest.fn(),
+    getAll: vi.fn(),
   },
 }));
 
 // Mock the auth context
-jest.mock('@/lib/auth-context', () => ({
-  useAuth: jest.fn(),
+vi.mock('@/lib/auth-context', () => ({
+  useAuth: vi.fn(),
 }));
 
-const mockedFeatureFlagsApi = featureFlagsApi as jest.Mocked<typeof featureFlagsApi>;
-const mockedUseAuth = useAuth as jest.Mock;
+const mockedFeatureFlagsApi = featureFlagsApi as Mocked<typeof featureFlagsApi>;
+const mockedUseAuth = useAuth as Mock;
 
 function createWrapper() {
   const queryClient = new QueryClient({
@@ -39,7 +40,7 @@ function createWrapper() {
 
 describe('useFeatureFlags', () => {
   beforeEach(() => {
-    jest.clearAllMocks();
+    vi.clearAllMocks();
     mockedUseAuth.mockReturnValue({
       user: { id: 'user-123', email: 'test@example.com' },
     });
@@ -76,6 +77,7 @@ describe('useFeatureFlags', () => {
       admin_user_management: true,
       admin_audit_logs: true,
       prep_timeline_optimization: true,
+      llm_step_parsing: true,
       offline_mode: true,
     };
 
@@ -113,6 +115,7 @@ describe('useFeatureFlags', () => {
       admin_user_management: true,
       admin_audit_logs: true,
       prep_timeline_optimization: true,
+      llm_step_parsing: true,
       offline_mode: true,
     };
 

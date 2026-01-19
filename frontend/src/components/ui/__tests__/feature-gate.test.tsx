@@ -1,18 +1,19 @@
+import { describe, it, expect, vi, beforeEach, Mock } from 'vitest';
 import { render, screen } from '@testing-library/react';
 import { FeatureGate, DisabledFeatureButton, FEATURE_LABELS } from '../feature-gate';
 import { useFeatureFlags } from '@/hooks/use-feature-flags';
 import { Download } from 'lucide-react';
 
 // Mock the useFeatureFlags hook
-jest.mock('@/hooks/use-feature-flags', () => ({
-  useFeatureFlags: jest.fn(),
+vi.mock('@/hooks/use-feature-flags', () => ({
+  useFeatureFlags: vi.fn(),
 }));
 
-const mockedUseFeatureFlags = useFeatureFlags as jest.Mock;
+const mockedUseFeatureFlags = useFeatureFlags as Mock;
 
 describe('FeatureGate', () => {
   beforeEach(() => {
-    jest.clearAllMocks();
+    vi.clearAllMocks();
   });
 
   it('should render children when feature is enabled', () => {
@@ -145,7 +146,7 @@ describe('DisabledFeatureButton', () => {
 });
 
 describe('FEATURE_LABELS', () => {
-  it('should have labels for all 16 features', () => {
+  it('should have labels for all 17 features', () => {
     const expectedFeatures = [
       'email_plan_notifications',
       'email_expiring_alerts',
@@ -162,6 +163,7 @@ describe('FEATURE_LABELS', () => {
       'admin_user_management',
       'admin_audit_logs',
       'prep_timeline_optimization',
+      'llm_step_parsing',
       'offline_mode',
     ];
 
