@@ -27,7 +27,7 @@ export function EmailCaptureForm() {
       >
         <CheckCircle2 className="h-6 w-6 text-sage-600 flex-shrink-0" />
         <p className="text-sage-800 font-medium">
-          You&apos;re on the list! We&apos;ll notify you when we&apos;re ready for you to use PrepPilot.
+          You&apos;re on the list! We&apos;ll notify you when PrepPilot is ready for you.
         </p>
       </motion.div>
     );
