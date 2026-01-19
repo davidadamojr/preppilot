@@ -24,6 +24,7 @@ export const FEATURE_LABELS: Record<FeatureName, string> = {
   admin_user_management: 'User management',
   admin_audit_logs: 'Audit logs',
   prep_timeline_optimization: 'Prep timeline optimization',
+  llm_step_parsing: 'LLM step parsing',
   offline_mode: 'Offline mode',
 };
 
