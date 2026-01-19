@@ -1,0 +1,23 @@
+# robots.txt for PrepPilot
+# https://preppilot.com
+
+User-agent: *
+Allow: /
+
+# Disallow sensitive and authenticated areas
+Disallow: /api/
+Disallow: /dashboard
+Disallow: /login
+Disallow: /register
+Disallow: /recipes
+Disallow: /offline
+
+# Disallow Next.js internal paths
+Disallow: /_next/
+Disallow: /static/
+
+# Sitemap location
+Sitemap: https://preppilot.com/sitemap.xml
+
+# Crawl delay (optional, respected by some bots)
+Crawl-delay: 1
