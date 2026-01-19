@@ -1,4 +1,4 @@
-import { describe, it, expect, vi, beforeAll, afterAll, afterEach } from 'vitest';
+import { describe, it, expect, vi, beforeAll, afterAll } from 'vitest';
 import { render, screen, fireEvent } from '@testing-library/react';
 import React from 'react';
 import {
@@ -14,20 +14,6 @@ import {
 // Component that throws an error on render
 function ThrowingComponent({ error }: { error?: Error }): React.ReactNode {
   throw error || new Error('Test error');
-}
-
-// Component that throws on demand
-function ConditionallyThrowingComponent({
-  shouldThrow,
-  error,
-}: {
-  shouldThrow: boolean;
-  error?: Error;
-}): React.ReactNode {
-  if (shouldThrow) {
-    throw error || new Error('Conditional test error');
-  }
-  return <div>Safe content</div>;
 }
 
 // Suppress console.error for cleaner test output

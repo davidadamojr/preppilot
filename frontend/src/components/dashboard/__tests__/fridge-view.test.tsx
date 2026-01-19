@@ -1103,7 +1103,7 @@ describe('FridgeView', () => {
 
       // Change quantity - find the input within the dialog
       const dialog = screen.getByRole('dialog');
-      // eslint-disable-next-line testing-library/no-node-access, @typescript-eslint/no-non-null-assertion
+      // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
       const quantityInput = dialog.querySelector('input[id="edit-quantity"]')!;
       await user.clear(quantityInput);
       await user.type(quantityInput, '1kg');
