@@ -42,7 +42,7 @@ export function EmailCaptureForm() {
           value={email}
           onChange={(e) => setEmail(e.target.value)}
           disabled={state === 'loading'}
-          className="flex-1 h-12 text-base"
+          className="flex-1 !h-14 !py-4 text-base"
           required
         />
         <Button
