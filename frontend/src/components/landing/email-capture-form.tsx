@@ -48,7 +48,7 @@ export function EmailCaptureForm() {
         <Button
           type="submit"
           disabled={state === 'loading' || !email.trim()}
-          className="h-12 px-6 bg-sage-600 hover:bg-sage-700 text-white font-medium whitespace-nowrap"
+          className="h-14 px-6 bg-sage-600 hover:bg-sage-700 text-white font-medium whitespace-nowrap"
         >
           <AnimatePresence mode="wait">
             {state === 'loading' ? (
